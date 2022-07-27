@@ -1,0 +1,15 @@
+/Users/kkandemir/Documents/GitHub/DotNetCore101/operatorler/bin/Debug/net5.0/operatorler.deps.json
+/Users/kkandemir/Documents/GitHub/DotNetCore101/operatorler/bin/Debug/net5.0/operatorler.runtimeconfig.json
+/Users/kkandemir/Documents/GitHub/DotNetCore101/operatorler/bin/Debug/net5.0/operatorler.runtimeconfig.dev.json
+/Users/kkandemir/Documents/GitHub/DotNetCore101/operatorler/bin/Debug/net5.0/operatorler.dll
+/Users/kkandemir/Documents/GitHub/DotNetCore101/operatorler/bin/Debug/net5.0/ref/operatorler.dll
+/Users/kkandemir/Documents/GitHub/DotNetCore101/operatorler/bin/Debug/net5.0/operatorler.pdb
+/Users/kkandemir/Documents/GitHub/DotNetCore101/operatorler/obj/Debug/net5.0/operatorler.csproj.AssemblyReference.cache
+/Users/kkandemir/Documents/GitHub/DotNetCore101/operatorler/obj/Debug/net5.0/operatorler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kkandemir/Documents/GitHub/DotNetCore101/operatorler/obj/Debug/net5.0/operatorler.AssemblyInfoInputs.cache
+/Users/kkandemir/Documents/GitHub/DotNetCore101/operatorler/obj/Debug/net5.0/operatorler.AssemblyInfo.cs
+/Users/kkandemir/Documents/GitHub/DotNetCore101/operatorler/obj/Debug/net5.0/operatorler.csproj.CoreCompileInputs.cache
+/Users/kkandemir/Documents/GitHub/DotNetCore101/operatorler/obj/Debug/net5.0/operatorler.dll
+/Users/kkandemir/Documents/GitHub/DotNetCore101/operatorler/obj/Debug/net5.0/ref/operatorler.dll
+/Users/kkandemir/Documents/GitHub/DotNetCore101/operatorler/obj/Debug/net5.0/operatorler.pdb
+/Users/kkandemir/Documents/GitHub/DotNetCore101/operatorler/obj/Debug/net5.0/operatorler.genruntimeconfig.cache
