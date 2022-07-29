@@ -1,0 +1,15 @@
+/Users/kkandemir/Documents/GitHub/DotNetCore101/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.deps.json
+/Users/kkandemir/Documents/GitHub/DotNetCore101/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.runtimeconfig.json
+/Users/kkandemir/Documents/GitHub/DotNetCore101/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.runtimeconfig.dev.json
+/Users/kkandemir/Documents/GitHub/DotNetCore101/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.dll
+/Users/kkandemir/Documents/GitHub/DotNetCore101/tip-donusumleri/bin/Debug/net5.0/ref/tip-donusumleri.dll
+/Users/kkandemir/Documents/GitHub/DotNetCore101/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.pdb
+/Users/kkandemir/Documents/GitHub/DotNetCore101/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.csproj.AssemblyReference.cache
+/Users/kkandemir/Documents/GitHub/DotNetCore101/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kkandemir/Documents/GitHub/DotNetCore101/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.AssemblyInfoInputs.cache
+/Users/kkandemir/Documents/GitHub/DotNetCore101/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.AssemblyInfo.cs
+/Users/kkandemir/Documents/GitHub/DotNetCore101/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.csproj.CoreCompileInputs.cache
+/Users/kkandemir/Documents/GitHub/DotNetCore101/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.dll
+/Users/kkandemir/Documents/GitHub/DotNetCore101/tip-donusumleri/obj/Debug/net5.0/ref/tip-donusumleri.dll
+/Users/kkandemir/Documents/GitHub/DotNetCore101/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.pdb
+/Users/kkandemir/Documents/GitHub/DotNetCore101/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.genruntimeconfig.cache
