@@ -6,7 +6,7 @@ namespace hata_yonetimi
     {
         static void Main(string[] args)
         {
-            /*
+            
                     try
                     {
                         Console.WriteLine("Bir sayı giriniz: ");
@@ -21,9 +21,9 @@ namespace hata_yonetimi
                     {
                         Console.WriteLine("İşlem Tamamlandı.");
                     }
-                    */
+                    
 
-            try
+          /*  try
             {
                 //int a = int.Parse(null);
                // int a = int.Parse("test");
@@ -46,6 +46,7 @@ namespace hata_yonetimi
             {
                 Console.WriteLine("İşlem başarıyla tamamlandı.");
             }
+            */
         }
     }
 }
