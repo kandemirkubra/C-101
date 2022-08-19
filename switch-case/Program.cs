@@ -51,7 +51,7 @@ namespace switch_case
                 case 7:
                 case 8:
                     {
-                        Console.WriteLine("SonBahar Mevsimindesiniz...");
+                        Console.WriteLine("Yaz Mevsimindesiniz...");
                         break;
                     }
                 default:
