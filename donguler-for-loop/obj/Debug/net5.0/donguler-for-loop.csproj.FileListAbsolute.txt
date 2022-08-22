@@ -1,0 +1,15 @@
+/Users/kkandemir/Documents/GitHub/DotNetCore101/donguler-for-loop/bin/Debug/net5.0/donguler-for-loop.deps.json
+/Users/kkandemir/Documents/GitHub/DotNetCore101/donguler-for-loop/bin/Debug/net5.0/donguler-for-loop.runtimeconfig.json
+/Users/kkandemir/Documents/GitHub/DotNetCore101/donguler-for-loop/bin/Debug/net5.0/donguler-for-loop.runtimeconfig.dev.json
+/Users/kkandemir/Documents/GitHub/DotNetCore101/donguler-for-loop/bin/Debug/net5.0/donguler-for-loop.dll
+/Users/kkandemir/Documents/GitHub/DotNetCore101/donguler-for-loop/bin/Debug/net5.0/ref/donguler-for-loop.dll
+/Users/kkandemir/Documents/GitHub/DotNetCore101/donguler-for-loop/bin/Debug/net5.0/donguler-for-loop.pdb
+/Users/kkandemir/Documents/GitHub/DotNetCore101/donguler-for-loop/obj/Debug/net5.0/donguler-for-loop.csproj.AssemblyReference.cache
+/Users/kkandemir/Documents/GitHub/DotNetCore101/donguler-for-loop/obj/Debug/net5.0/donguler-for-loop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kkandemir/Documents/GitHub/DotNetCore101/donguler-for-loop/obj/Debug/net5.0/donguler-for-loop.AssemblyInfoInputs.cache
+/Users/kkandemir/Documents/GitHub/DotNetCore101/donguler-for-loop/obj/Debug/net5.0/donguler-for-loop.AssemblyInfo.cs
+/Users/kkandemir/Documents/GitHub/DotNetCore101/donguler-for-loop/obj/Debug/net5.0/donguler-for-loop.csproj.CoreCompileInputs.cache
+/Users/kkandemir/Documents/GitHub/DotNetCore101/donguler-for-loop/obj/Debug/net5.0/donguler-for-loop.dll
+/Users/kkandemir/Documents/GitHub/DotNetCore101/donguler-for-loop/obj/Debug/net5.0/ref/donguler-for-loop.dll
+/Users/kkandemir/Documents/GitHub/DotNetCore101/donguler-for-loop/obj/Debug/net5.0/donguler-for-loop.pdb
+/Users/kkandemir/Documents/GitHub/DotNetCore101/donguler-for-loop/obj/Debug/net5.0/donguler-for-loop.genruntimeconfig.cache
