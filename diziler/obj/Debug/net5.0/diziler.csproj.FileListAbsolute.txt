@@ -1,0 +1,15 @@
+/Users/kkandemir/Documents/GitHub/DotNetCore101/diziler/bin/Debug/net5.0/diziler.deps.json
+/Users/kkandemir/Documents/GitHub/DotNetCore101/diziler/bin/Debug/net5.0/diziler.runtimeconfig.json
+/Users/kkandemir/Documents/GitHub/DotNetCore101/diziler/bin/Debug/net5.0/diziler.runtimeconfig.dev.json
+/Users/kkandemir/Documents/GitHub/DotNetCore101/diziler/bin/Debug/net5.0/diziler.dll
+/Users/kkandemir/Documents/GitHub/DotNetCore101/diziler/bin/Debug/net5.0/ref/diziler.dll
+/Users/kkandemir/Documents/GitHub/DotNetCore101/diziler/bin/Debug/net5.0/diziler.pdb
+/Users/kkandemir/Documents/GitHub/DotNetCore101/diziler/obj/Debug/net5.0/diziler.csproj.AssemblyReference.cache
+/Users/kkandemir/Documents/GitHub/DotNetCore101/diziler/obj/Debug/net5.0/diziler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kkandemir/Documents/GitHub/DotNetCore101/diziler/obj/Debug/net5.0/diziler.AssemblyInfoInputs.cache
+/Users/kkandemir/Documents/GitHub/DotNetCore101/diziler/obj/Debug/net5.0/diziler.AssemblyInfo.cs
+/Users/kkandemir/Documents/GitHub/DotNetCore101/diziler/obj/Debug/net5.0/diziler.csproj.CoreCompileInputs.cache
+/Users/kkandemir/Documents/GitHub/DotNetCore101/diziler/obj/Debug/net5.0/diziler.dll
+/Users/kkandemir/Documents/GitHub/DotNetCore101/diziler/obj/Debug/net5.0/ref/diziler.dll
+/Users/kkandemir/Documents/GitHub/DotNetCore101/diziler/obj/Debug/net5.0/diziler.pdb
+/Users/kkandemir/Documents/GitHub/DotNetCore101/diziler/obj/Debug/net5.0/diziler.genruntimeconfig.cache
