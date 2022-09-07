@@ -1,0 +1,15 @@
+/Users/kkandemir/Documents/GitHub/DotNetCore101/diziler-array-sinifi-methotlari/bin/Debug/net5.0/diziler-array-sinifi-methotlari.deps.json
+/Users/kkandemir/Documents/GitHub/DotNetCore101/diziler-array-sinifi-methotlari/bin/Debug/net5.0/diziler-array-sinifi-methotlari.runtimeconfig.json
+/Users/kkandemir/Documents/GitHub/DotNetCore101/diziler-array-sinifi-methotlari/bin/Debug/net5.0/diziler-array-sinifi-methotlari.runtimeconfig.dev.json
+/Users/kkandemir/Documents/GitHub/DotNetCore101/diziler-array-sinifi-methotlari/bin/Debug/net5.0/diziler-array-sinifi-methotlari.dll
+/Users/kkandemir/Documents/GitHub/DotNetCore101/diziler-array-sinifi-methotlari/bin/Debug/net5.0/ref/diziler-array-sinifi-methotlari.dll
+/Users/kkandemir/Documents/GitHub/DotNetCore101/diziler-array-sinifi-methotlari/bin/Debug/net5.0/diziler-array-sinifi-methotlari.pdb
+/Users/kkandemir/Documents/GitHub/DotNetCore101/diziler-array-sinifi-methotlari/obj/Debug/net5.0/diziler-array-sinifi-methotlari.csproj.AssemblyReference.cache
+/Users/kkandemir/Documents/GitHub/DotNetCore101/diziler-array-sinifi-methotlari/obj/Debug/net5.0/diziler-array-sinifi-methotlari.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kkandemir/Documents/GitHub/DotNetCore101/diziler-array-sinifi-methotlari/obj/Debug/net5.0/diziler-array-sinifi-methotlari.AssemblyInfoInputs.cache
+/Users/kkandemir/Documents/GitHub/DotNetCore101/diziler-array-sinifi-methotlari/obj/Debug/net5.0/diziler-array-sinifi-methotlari.AssemblyInfo.cs
+/Users/kkandemir/Documents/GitHub/DotNetCore101/diziler-array-sinifi-methotlari/obj/Debug/net5.0/diziler-array-sinifi-methotlari.csproj.CoreCompileInputs.cache
+/Users/kkandemir/Documents/GitHub/DotNetCore101/diziler-array-sinifi-methotlari/obj/Debug/net5.0/diziler-array-sinifi-methotlari.dll
+/Users/kkandemir/Documents/GitHub/DotNetCore101/diziler-array-sinifi-methotlari/obj/Debug/net5.0/ref/diziler-array-sinifi-methotlari.dll
+/Users/kkandemir/Documents/GitHub/DotNetCore101/diziler-array-sinifi-methotlari/obj/Debug/net5.0/diziler-array-sinifi-methotlari.pdb
+/Users/kkandemir/Documents/GitHub/DotNetCore101/diziler-array-sinifi-methotlari/obj/Debug/net5.0/diziler-array-sinifi-methotlari.genruntimeconfig.cache
